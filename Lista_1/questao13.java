@@ -26,5 +26,6 @@ public class questao13 {
                 System.out.printf("\nQnt primos: %d", con);
             }
         }while(n<=0);
+        sc.close();
     }
 }

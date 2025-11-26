@@ -24,6 +24,6 @@ public class questao12 {
             
             
         }while(n<=0);
-        
+        sc.close();
     }
 }

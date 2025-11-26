@@ -12,5 +12,7 @@ public class questao8{
             System.out.printf("valor da passagem: R$%.2f", distancia*0.5);
             else 
                 System.out.printf("Preco da passagem: R$%.2f", distancia*0.45);
+
+        sc.close();
     }
 }

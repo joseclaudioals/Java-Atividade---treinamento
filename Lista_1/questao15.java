@@ -20,5 +20,6 @@ public class questao15{
                 atual = fibonacci;
             }
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class questao4 {
         area = pi*(raio*raio);
 
         System.out.printf("o valor da area do circulo de raio %.2f eh %.2fcm2", raio, area );
+        sc.close();
     }
 }

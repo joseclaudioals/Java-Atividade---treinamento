@@ -18,5 +18,6 @@ public class questao18 {
             System.out.println("a frase eh um palindromo");
             else 
                 System.out.println("a palavra NAO eh um palindromo");
+            sc.close();
     }
 }

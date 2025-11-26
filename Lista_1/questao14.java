@@ -18,5 +18,6 @@ public class questao14 {
             }
                 else
                     System.out.printf("o numero eh grande demais e o programa não tankou");
+        sc.close();
     }
 }

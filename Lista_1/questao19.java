@@ -33,6 +33,6 @@ public class questao19 {
             System.out.println("valido");
             else 
                 System.out.println("invalido");
-        
+        sc.close();
     }
 }

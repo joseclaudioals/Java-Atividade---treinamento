@@ -13,6 +13,6 @@ public class questao6{
             System.out.printf("VOCE ESTA MULTADO!!! valor da multa R$%.2f", 5*((float)velocidade-80));
             else
                 System.out.printf("voce esta na borda da lei, sem multa");
-
+    sc.close();
     }
 }

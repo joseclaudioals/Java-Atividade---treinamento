@@ -17,5 +17,7 @@ public class questao9{
             System.out.printf("Aprovado\nValor prestacao = R$%.2f");
             else 
                 System.out.printf("Negado");
+
+        sc.close();
     }
 }

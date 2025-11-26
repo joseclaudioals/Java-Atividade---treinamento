@@ -11,5 +11,6 @@ public class questao7 {
             System.out.printf("Salario novo: R$%.2f", salario*1.10);
             else 
                 System.out.printf("Salario novo: R$%.2f", salario*1.15);
+        sc.close();
     }
 }

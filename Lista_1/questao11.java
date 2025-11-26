@@ -14,5 +14,6 @@ public class questao11 {
         }
         else
             System.out.print("insira um valor valido");
+        sc.close();
     }
 }

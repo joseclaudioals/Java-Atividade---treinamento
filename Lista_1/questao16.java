@@ -15,5 +15,6 @@ public class questao16 {
             n1 = temp;
         }
         System.out.print("MDC: " + n1);
+        sc.close();
     }
 }

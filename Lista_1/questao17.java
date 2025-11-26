@@ -33,5 +33,6 @@ public class questao17 {
         percentual = (percentual/n)*100;
 
         System.out.printf("media: %.2f\nmaior: %.2f\nmenor: %.2f\n>=:%.0f%%\n", media, maior, menor, percentual);
+        sc.close();
     }
 }

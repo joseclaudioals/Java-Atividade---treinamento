@@ -16,5 +16,6 @@ public class questao10 {
         else
           System.out.printf("insira um valor valido");
       }while(n<=0);
+      sc.close();
     }
 }

@@ -14,6 +14,8 @@ public class questao2 {
 		litros=valorAbast/precoComb;
 		
 		System.out.printf("%.2f foram abastecidos no seu carro", litros);
+
+		sc.close();
 		
 	}
 }

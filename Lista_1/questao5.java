@@ -16,6 +16,7 @@ public class questao5 {
         prestacao = valor+(valor*((float)juros/100)*dias);
 
         System.out.printf("prestacao= R$%.2f", prestacao);
+        sc.close();
     }
     
 }
